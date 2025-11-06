@@ -38,5 +38,5 @@ Based on distance thresholds:
 ![Simulation Screenshot](Simulation_Screenshots/tinkercad_setup.png)
 
 ## 👨‍💻 Author
-*Ayush Roy*  
-ECE Student, IILM University
+*Ayush kumar*  
+
