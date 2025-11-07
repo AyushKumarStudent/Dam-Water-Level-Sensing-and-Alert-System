@@ -36,7 +36,7 @@ Based on distance thresholds:
 ##  Demo Video
 (You will add your YouTube/Drive video link here after recording your demo.)
 
-##  Simulation Screenshot
+## Simulation_screenshots
 [Simulation Screenshot](Simulation_Screenshots/safe_level.png)
 
 [Simulation Screenshot](Simulation_Screenshots/warning_level.png)
