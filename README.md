@@ -37,7 +37,11 @@ Based on distance thresholds:
 (You will add your YouTube/Drive video link here after recording your demo.)
 
 ##  Simulation Screenshot
-![Simulation Screenshot](Simulation_Screenshots/Tinkercad.png)
+[Simulation Screenshot](Simulation_Screenshots/safe_level.png)
+
+[Simulation Screenshot](Simulation_Screenshots/warning_level.png)
+
+[Simulation Screenshot](Simulation_Screenshots/Danger_.png)
 
 ##  Author
 *Ayush kumar*  
