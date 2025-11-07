@@ -36,13 +36,11 @@ Based on distance thresholds:
 ##  Demo Video
 (You will add your YouTube/Drive video link here after recording your demo.)
 
-## Simulation_screenshots
-[Simulation Screenshot](Simulation_Screenshots/safe_level.png)
+## Simulation Screenshots
 
-[Simulation Screenshot](Simulation_Screenshots/warning_level.png)
-
-[Simulation Screenshot](Simulation_Screenshots/Danger_.png)
-
+- [Safe Level](Simulation_screenshots/safe_level.png)
+- [Warning Level](Simulation_screenshots/warning_level.png)
+- [Danger (Possible Overflow)](Simulation_screenshots/Danger_.png)
 ##  Author
 *Ayush kumar*  
 
