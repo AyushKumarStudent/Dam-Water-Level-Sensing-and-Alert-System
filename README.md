@@ -19,6 +19,7 @@ It provides visual alerts using LEDs and an audible buzzer alarm when the water 
 
 ## 🔌 Circuit Diagram
 ![Circuit Diagram](Circuit_Diagram/schematic.png)
+[View full diagram (PDF)] (Circuit_Diagram/schematic.pdf)
 
 ## 💻 Arduino Code
 The code for this project is located in [Arduino_Code/water_level_alert.ino](Arduino_Code/water_level_alert.ino)
@@ -35,7 +36,7 @@ Based on distance thresholds:
 (You will add your YouTube/Drive video link here after recording your demo.)
 
 ## 📷 Simulation Screenshot
-![Simulation Screenshot](Simulation_Screenshots/tinkercad_setup.png)
+![Simulation Screenshot](Simulation_Screenshots/Tinkercad.png)
 
 ## 👨‍💻 Author
 *Ayush kumar*  
