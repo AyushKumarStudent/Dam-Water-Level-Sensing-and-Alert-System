@@ -18,7 +18,7 @@ It provides visual alerts using LEDs and an audible buzzer alarm when the water 
 - Breadboard and Jumper Wires  
 
 ## 🔌 Circuit Diagram
-![View Circuit Diagram](Circuit_Diagram/schematic.png)
+[View Circuit Diagram](Circuit_Diagram/schematic.png)
 
 📄 [View full schematic (PDF)](Circuit_Diagram/schematic.pdf)
 
