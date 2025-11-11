@@ -14,7 +14,7 @@ It provides visual alerts using LEDs and an audible buzzer alarm when the water 
 - Ultrasonic Sensor (HC-SR04)  
 - Buzzer  
 - LEDs (Red, Yellow, Green)  
-- 220Ω Resistors  
+- 330Ω Resistors  
 - Breadboard and Jumper Wires  
 
 ## 🔌 Circuit Diagram
