@@ -50,7 +50,8 @@ Arduino IDE
 
 Tinkercad for simulation
 
-## 🔌Simulated Circuit Diagram
+ 
+ ##🔌Simulated Circuit Diagram
 [View Circuit Diagram](Circuit_Diagram/schematic.png)
 
 📄 [View full schematic (PDF)](Circuit_Diagram/schematic.pdf)
@@ -76,5 +77,7 @@ Based on distance thresholds:
 - [Warning Level](Simulation_screenshots/warning_level.png)
 - [Danger (Possible Overflow)](Simulation_screenshots/Danger_.png)
 ##  Author
-*Ayush kumar*  
+Ayush kumar
+Arpan Das 
+Dhairya Verma 
 
