@@ -1,23 +1,56 @@
 # Dam Water Level Sensing and Alert System
 
-##  Project Overview
-This project monitors water levels in a dam using an Ultrasonic Sensor (HC-SR04) and an Arduino Uno.  
-It provides visual alerts using LEDs and an audible buzzer alarm when the water level approaches danger levels.
+## i) Problem Statement / Aim
+Problem Statement
 
-##  Objective
-- Measure real-time water level using an ultrasonic sensor.
-- Display water level status through LEDs.
-- Trigger a buzzer when the water level becomes dangerously high.
+To design and develop a prototype Dam Water-Level Sensing and Alert System using Arduino that detects water levels through an ultrasonic sensor and provides alerts using LEDs and a buzzer.
 
-##  Components Used
-- Arduino UNO  
-- Ultrasonic Sensor (HC-SR04)  
-- Buzzer  
-- LEDs (Red, Yellow, Green)  
-- 330Ω Resistors  
-- Breadboard and Jumper Wires  
+## Aim
 
-## 🔌 Circuit Diagram
+To monitor dam water levels in real time and indicate safe, warning, and danger conditions using a low-cost electronic sensing system.
+
+## ii) Scope of the Solution
+
+Prevents dam overflow and flooding by early warning.
+
+Real-time level monitoring using LEDs.
+
+Provides audible alert using a 5V active buzzer.
+
+Uses low-cost and easily available hardware.
+
+Can be expanded for tanks, reservoirs, and industrial use cases.
+
+Easy to operate and beginner-friendly.
+
+## iii) Required Components to Develop the Solution
+Hardware Components
+
+Arduino UNO (DIP version)
+
+Ultrasonic Sensor HC-SR04
+
+LEDs (Green, Yellow, Red – 10mm)
+
+Resistors (330Ω)
+
+5V Active Buzzer
+
+Breadboard (400-point)
+
+Jumper Wires (M-M, M-F, F-F)
+
+USB Type-B Cable (for power & programming)
+
+9V Battery + Battery Clip
+
+Software Requirements
+
+Arduino IDE
+
+Tinkercad for simulation
+
+## 🔌Simulated Circuit Diagram
 [View Circuit Diagram](Circuit_Diagram/schematic.png)
 
 📄 [View full schematic (PDF)](Circuit_Diagram/schematic.pdf)
@@ -34,7 +67,7 @@ Based on distance thresholds:
 - Red LED + Buzzer → Danger (possible overflow)
 
 ##  Demo Video
-(You will add your YouTube/Drive video link here after recording your demo.)
+
 
 ## Simulation Screenshots
 
